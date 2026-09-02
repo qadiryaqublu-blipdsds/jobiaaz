@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" fill="none">
+  <style>
+    .jobia-text {
+      font-family: 'Plus Jakarta Sans', 'Inter', 'Montserrat', 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 126px;
+      font-weight: 900;
+      letter-spacing: -0.035em;
+    }
+  </style>
+  <text x="10" y="105" class="jobia-text">
+    <tspan fill="#00a859">job</tspan><tspan fill="#0b1b2b">ia.</tspan><tspan fill="#00a859">az</tspan>
+  </text>
+</svg>

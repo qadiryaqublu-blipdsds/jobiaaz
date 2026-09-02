@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" width="100%" height="100%" fill="none">
+  <!-- h (Dark Navy) -->
+  <text x="18" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="110" font-weight="900" fill="#0a1128" letter-spacing="-0.04em">h</text>
+  
+  <!-- i (Humanoid Sky Blue Figure) -->
+  <g transform="translate(92, 16)">
+    <!-- Head / Circle -->
+    <circle cx="28" cy="22" r="16" fill="#29b6f6" />
+    <!-- Curved Arched Shoulders / Arms -->
+    <path d="M 6 48 Q 28 34 50 48 Q 28 40 6 48 Z" fill="#0a1128" opacity="0.9" />
+    <path d="M 4 48 C 14 36, 42 36, 52 48 C 40 41, 16 41, 4 48 Z" fill="#0a1128" />
+    <!-- Torso / Stem -->
+    <rect x="18" y="44" width="20" height="42" rx="4" fill="#29b6f6" />
+  </g>
+
+  <!-- r e (Dark Navy) -->
+  <text x="156" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="110" font-weight="900" fill="#0a1128" letter-spacing="-0.04em">re</text>
+  
+  <!-- m e (Sky Blue) -->
+  <text x="274" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="110" font-weight="900" fill="#29b6f6" letter-spacing="-0.04em">me</text>
+
+  <!-- .az Black Capsule Badge with Red Dot -->
+  <g transform="translate(422, 38)">
+    <rect x="0" y="0" width="86" height="58" rx="29" fill="#0a1128" />
+    <!-- Red Dot -->
+    <circle cx="21" cy="34" r="7.5" fill="#ef4444" />
+    <!-- White 'az' text -->
+    <text x="35" y="42" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="900" fill="#ffffff" letter-spacing="-0.03em">az</text>
+  </g>
+</svg>
